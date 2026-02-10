@@ -46,3 +46,11 @@ streamlit run 02_temp_tuner_agent/app.py
 <img width="2884" height="2520" alt="screencapture-localhost-8501-2026-02-09-23_07_55" src="https://github.com/user-attachments/assets/befef4be-1a75-41d0-9de7-02d14f6b27c0" />
 <img width="2884" height="2520" alt="screencapture-localhost-8501-2026-02-09-23_09_03" src="https://github.com/user-attachments/assets/6d0adc62-e6d9-4e95-b627-31b06f56eafe" />
 <img width="2884" height="2520" alt="screencapture-localhost-8501-2026-02-09-23_09_09" src="https://github.com/user-attachments/assets/4770ef97-4a6a-4f5c-9058-23fbb28560c4" />
+
+
+### 3. Prompt Variant Switcher
+A/B test different prompt personas.
+```bash
+streamlit run 03_prompt_variant_switcher/app.py
+```
+
