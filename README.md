@@ -54,3 +54,7 @@ A/B test different prompt personas.
 streamlit run 03_prompt_variant_switcher/app.py
 ```
 
+<img width="1871" height="3013" alt="screencapture-localhost-8501-2026-02-10-11_11_20" src="https://github.com/user-attachments/assets/69b75428-67c6-4bd0-8d33-1c0bda1b47dd" />
+<img width="1871" height="1228" alt="screencapture-localhost-8501-2026-02-10-11_10_55" src="https://github.com/user-attachments/assets/dc53a9bd-dccf-4cdf-83fe-695d9f50c37d" />
+
+
